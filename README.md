@@ -124,6 +124,7 @@
 ## 相关链接
 
 - 🤖 **AI 网申管家**（开源项目）：https://github.com/DOLOwithAI/ai-apply-manager
+- 🎮 **AI 游戏作品集**：https://github.com/DOLOwithAI/ai-game-portfolio
 - 👤 **GitHub 主页**：https://github.com/DOLOwithAI
 
 ---
